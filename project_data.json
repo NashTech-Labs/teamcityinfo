@@ -1,0 +1,40 @@
+[
+    {
+      "project_name": "",
+      "RepositoryUrl": "",
+      "ArtifactoryUrl": "",
+      "latest_build_id": "",
+      "latest_build_finish_time": "",
+      "Serial No.": 0,
+      "agent_name": "",
+      "latest_build_url": "",
+      "agent_id": "",
+      "latest_build_number": "",
+      "latest_build_start_date": "",
+      "project_id": "",
+      "VCS": null,
+      "latest_build_status": "",
+      "project_parentId": "",
+      "project_webUrl": "",
+      "latest_build_finish_date": ""
+    },
+    {
+      "project_name": "",
+      "RepositoryUrl": "",
+      "ArtifactoryUrl": "",
+      "latest_build_id": "",
+      "latest_build_finish_time": "",
+      "Serial No.": 0,
+      "agent_name": "",
+      "latest_build_url": "",
+      "agent_id": "",
+      "latest_build_number": "",
+      "latest_build_start_date": "",
+      "project_id": "",
+      "VCS": null,
+      "latest_build_status": "",
+      "project_parentId": "",
+      "project_webUrl": "",
+      "latest_build_finish_date": ""
+    }
+  ]
